@@ -20,8 +20,7 @@ Langkah-langkah Praktikum
 Buatlah dokumen HTML seperti berikut
 
 
-![](images/1%20MembuatHTMLdoc.png)
-
+![](images/1%20MembuatHTMLdoc.png)![](images/1%20MembuatHTMLdoc.png)
 
 
 Selanjutnya buka pada brwoser untuk melihat hasilnya.
